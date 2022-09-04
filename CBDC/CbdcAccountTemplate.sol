@@ -1,4 +1,4 @@
-//License All Unauthorized Usage Prohibited
+//License: All Unauthorized Usage Prohibited
 pragma solidity ^0.8.0;
 
 import "GOV.Authorities";
